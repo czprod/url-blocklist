@@ -1,0 +1,20 @@
+# Norske sider (VG, DB osv.)
+0.0.0.0 brandmetrics.com
+0.0.0.0 lp4.io
+0.0.0.0 medietall.no
+0.0.0.0 norstatsurveys.com
+0.0.0.0 schibsted.io
+0.0.0.0 sentry-cdn.com
+
+# Github
+0.0.0.0 sentry.io
+
+# Inoreader
+0.0.0.0 innologica.com
+
+# Others
+0.0.0.0 adservice.google.com
+0.0.0.0 doubleclick.net
+0.0.0.0 jwpltx.com
+#0.0.0.0 jwpcdn.com
+0.0.0.0 taboola.com

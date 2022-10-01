@@ -3,6 +3,7 @@ independent.co.uk###indy-top-container-wrapper
 
 vg.no##[src^="gfx/icons/pluss.svg"]:upward(6)
 vg.no##[src^="gfx/icons/vgtv_pluss.svg"]:upward(6)
+vg.no##article[class^="is-paywalled"]
 
 dagbladet.no##[data-label^="pluss"]
 dagbladet.no##div[class^="content-marketing-ribbon"]:upward(2)
